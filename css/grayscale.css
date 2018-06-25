@@ -408,7 +408,7 @@ img::-moz-selection {
 }
 
 .study2 {
-  background-image: url("../img/拉拉.jpg")no-repeat bottom center scroll;
+  background-image: url("../img/拉拉.jpg");
 }
 
 .study3 {
