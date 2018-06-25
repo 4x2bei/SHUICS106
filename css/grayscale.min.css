@@ -190,12 +190,13 @@ text-shadow:none}img::selection{background:0 0}img::-moz-selection{background:0 
   background-image: url("../img/宿營.jpg")no-repeat bottom center scroll;
 }
 
+
 .study3 {
-  background-image: url("https://github.com/4x2bei/SHUICS106/blob/master/img/%E5%AE%BF%E7%87%9F.jpg");
+  background-image: url("../img/宿營.jpg");
 }
 
 .study4 {
-  background-image: url("https://41.media.tumblr.com/8d41610b4f5e7d5b68e4430b736fbeb3/tumblr_n4vbj2Vv8h1st5lhmo1_1280.jpg");
+  background-image: url("../img/歐趴周.jpg");
 }
 
 .study5 {
